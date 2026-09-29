@@ -1,0 +1,20 @@
+{
+  "name": "genpark-llm-as-a-judge-rubric-scoring-engine-skill",
+  "version": "1.0.0",
+  "description": "Structured rubric evaluator calculating weighted composite Likert scores across quality criteria",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "llm-as-a-judge",
+    "rubric-evaluator",
+    "benchmark",
+    "quality-metrics",
+    "likert-scale",
+    "python-standard-library",
+    "agent-skills",
+    "agent-evaluation",
+    "decision-support",
+    "model-grading"
+  ]
+}
