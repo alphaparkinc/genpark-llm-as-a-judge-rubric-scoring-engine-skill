@@ -1,0 +1,6 @@
+name: genpark-llm-as-a-judge-rubric-scoring-engine-skill
+version: 1.0.0
+description: Structured rubric evaluator calculating weighted composite Likert scores across quality criteria
+command: python
+args:
+  - mcp_server.py
